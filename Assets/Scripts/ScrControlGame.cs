@@ -13,10 +13,10 @@ public class ScrControlGame : MonoBehaviour
     [SerializeField]
     float tempsTransicio = 1f;
     [SerializeField]
-    float tempsEspera = 38f;
+    float tempsEspera = 38f; //temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
     void Start()
     {
-        StartCoroutine(esperaIntro());
+        StartCoroutine(esperaIntro()); //inicio els temps d'espera per a canviar d'escena
     }
 
     // Update is called once per frame
@@ -26,7 +26,13 @@ public class ScrControlGame : MonoBehaviour
     }
     void ControlEntradaUsuari()
     {
-        if (Input.GetKeyDown(KeyCode.Return)) CarregarNivell(); //per passar de la intro al menú
+        Scene escena = SceneManager.GetActiveScene(); //vull que em detecti l'escena actual
+        string escenaActual = escena.name; //anomeno a l'escena actual com "escenaActual"
+        if (escenaActual == "Intro" || escenaActual == "Intro 2") //si l'escena actual és la de Intro o Intro 2, vull poder canviar d'escena amb "Enter"
+        {
+            if(Input.GetKeyDown(KeyCode.Return)) CarregarNivell();
+        }
+
         if (Input.GetKeyDown(KeyCode.J)) Nivell1();
         //if (Input.GetKeyDown(KeyCode.C))
         if (Input.GetKeyDown(KeyCode.W)) Web();
