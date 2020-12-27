@@ -8,12 +8,10 @@ public class ScrControlGame : MonoBehaviour
 {
     // Start is called before the first frame update
     
-    [SerializeField]
-    Animator transicio;
-    [SerializeField]
-    float tempsTransicio = 1f;
-    [SerializeField]
-    float tempsEspera = 38f; //temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
+    [SerializeField] Animator transicio;
+    [SerializeField] float tempsTransicio = 1f;
+    [SerializeField] float tempsEspera = 38f; //temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
+
     void Start()
     {
         StartCoroutine(esperaIntro()); //inicio els temps d'espera per a canviar d'escena
@@ -32,12 +30,6 @@ public class ScrControlGame : MonoBehaviour
         {
             if(Input.GetKeyDown(KeyCode.Return)) CarregarNivell();
         }
-
-        if (Input.GetKeyDown(KeyCode.J)) Nivell1();
-        //if (Input.GetKeyDown(KeyCode.C))
-        if (Input.GetKeyDown(KeyCode.W)) Web();
-        if (Input.GetKeyDown(KeyCode.S)) Sortir();
-        
     }
     public void CarregarNivell()
     {
@@ -51,25 +43,14 @@ public class ScrControlGame : MonoBehaviour
     }
     IEnumerator esperaIntro()
     {
-        yield return new WaitForSeconds(tempsEspera);
-        SceneManager.LoadScene(1);
+        Scene escena = SceneManager.GetActiveScene(); //vull que em detecti l'escena actual
+        string escenaActual = escena.name; //anomeno a l'escena actual com "escenaActual"
+        if (escenaActual == "Intro")
+        {
+            yield return new WaitForSeconds(tempsEspera);
+            SceneManager.LoadScene(1); //quan passin 38 segons vull que em carregui l'escena 1 
+        }
         
-    }
-    public void Nivell1()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //em permet accedir al nivell 1 mitjançant el botó del menú
-    }
-    public void Controls()
-    {
-
-    }
-    public void Web()
-    {
-        Application.OpenURL("https://twitter.com/Pamoan10"); //permet accedir a un web 
-    }
-    public void Sortir()
-    {
-        Application.Quit(); //permet sortir del joc
     }
     
 }
