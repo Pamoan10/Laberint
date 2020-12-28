@@ -5,9 +5,10 @@ using UnityEngine;
 public class ScrPokeball : MonoBehaviour
 {
     // Start is called before the first frame update
-    void Start()
+    public int valorPokeball = 2;
+    void Awake()
     {
-        
+        ScrControlGame.pokeballs++;
     }
 
     // Update is called once per frame
