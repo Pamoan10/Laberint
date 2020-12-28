@@ -190,7 +190,8 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: -617557388629699545, guid: 536d820e9a5a09848a5e3edaee33b5c8,
       type: 3}
-    m_PressedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: -617557388629699545, guid: 536d820e9a5a09848a5e3edaee33b5c8,
+      type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -322,7 +323,8 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: -808805831089010262, guid: 536d820e9a5a09848a5e3edaee33b5c8,
       type: 3}
-    m_PressedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: -808805831089010262, guid: 536d820e9a5a09848a5e3edaee33b5c8,
+      type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -608,7 +610,8 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: 7634683168613850113, guid: 536d820e9a5a09848a5e3edaee33b5c8,
       type: 3}
-    m_PressedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 7634683168613850113, guid: 536d820e9a5a09848a5e3edaee33b5c8,
+      type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -700,7 +703,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c8520d632fd9b48871ae540bf1ecb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transicio: {fileID: 0}
+  transicio: {fileID: 1914817496}
   tempsTransicio: 1
   tempsEspera: 38
 --- !u!4 &450268965
@@ -1125,7 +1128,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &806562244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1415,7 +1418,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -13, y: 24.785}
+  m_AnchoredPosition: {x: -6, y: 18}
   m_SizeDelta: {x: 1175.7954, y: 670.5697}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &838693695
@@ -1712,7 +1715,8 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: -7064098811174150409, guid: 536d820e9a5a09848a5e3edaee33b5c8,
       type: 3}
-    m_PressedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: -7064098811174150409, guid: 536d820e9a5a09848a5e3edaee33b5c8,
+      type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -2004,12 +2008,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: 
+      - m_Target: {fileID: 1963177447}
+        m_MethodName: surtControls
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2128,7 +2132,7 @@ PrefabInstance:
     - target: {fileID: 1662204451852318312, guid: ca1582450da21064aab30be3504cf33a,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1662204451852318326, guid: ca1582450da21064aab30be3504cf33a,
         type: 3}
@@ -2187,6 +2191,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca1582450da21064aab30be3504cf33a, type: 3}
+--- !u!95 &1914817496 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1662204451250658470, guid: ca1582450da21064aab30be3504cf33a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1914817495}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1963177442
 GameObject:
   m_ObjectHideFlags: 0
