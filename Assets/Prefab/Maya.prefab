@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7069841674773485369}
   - component: {fileID: 7069841674773485373}
   - component: {fileID: 7069841674773485372}
+  - component: {fileID: 1827540533158579154}
   m_Layer: 0
   m_Name: Maya
   m_TagString: Untagged
@@ -156,3 +157,17 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0068788826, y: -0.016509295}
   m_Size: {x: 0.33860356, y: 0.539466}
   m_Direction: 0
+--- !u!114 &1827540533158579154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7069841674773485370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4337fa859cef50c43962a7034f383fe8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  camara: {fileID: 0}
+  etiqueta: CameraNode
