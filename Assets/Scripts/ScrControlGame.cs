@@ -23,6 +23,7 @@ public class ScrControlGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         ControlEntradaUsuari();
     }
     void ControlEntradaUsuari()
@@ -33,6 +34,7 @@ public class ScrControlGame : MonoBehaviour
         {
             if(Input.GetKeyDown(KeyCode.Return)) CarregarNivell();
         }
+        print("puntus" + ScrControlGame.punts);
     }
     public void CarregarNivell()
     {

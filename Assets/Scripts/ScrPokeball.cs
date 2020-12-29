@@ -6,6 +6,7 @@ public class ScrPokeball : MonoBehaviour
 {
     // Start is called before the first frame update
     public int valorPokeball = 2;
+    
     void Awake()
     {
         ScrControlGame.pokeballs++;

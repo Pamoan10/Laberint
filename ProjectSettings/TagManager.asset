@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Pokeball
   - CameraNode
+  - Enemic
   layers:
   - Default
   - TransparentFX

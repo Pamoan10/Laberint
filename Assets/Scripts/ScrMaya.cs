@@ -6,6 +6,9 @@ public class ScrMaya : MonoBehaviour
 {
     [SerializeField] float velocitat = 1f;
     [SerializeField] Animator animator; //permet
+    [SerializeField] int maxSalut = 10; //declaro la variable de la salut màxima i de l'actual
+    [SerializeField] int actualSalut;
+    [SerializeField] ScrEnemicsiVida barraSalut;
 
     Vector2 moviment;
 
@@ -17,6 +20,9 @@ public class ScrMaya : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>(); //ara rb apunta al component rigidBody del player
+        actualSalut = maxSalut; //quan comença la salut està al màxim
+        barraSalut.salutMax(maxSalut); //accedeixo a ScrEnemics i vida i li passo la salut màxima
+        
     }
 
     // Update is called once per frame
@@ -32,12 +38,16 @@ public class ScrMaya : MonoBehaviour
         }
 
         animator.SetFloat("Velocitat", moviment.sqrMagnitude);
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Dany(1);
+        }
     }
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + moviment * velocitat * Time.fixedDeltaTime);
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision) //Quan entri en contacte amb un Gameobject que tingui el tag de "pokeball" o "enemic"
     {
         if (collision.CompareTag("Pokeball"))
         {
@@ -46,5 +56,15 @@ public class ScrMaya : MonoBehaviour
             Destroy(collision.gameObject);
             ScrControlGame.pokeballs--;
         }
+        if (collision.CompareTag("Enemic"))
+        {
+            Dany(1);
+        }
+    }
+    
+    void Dany(int dany)
+    {
+        actualSalut -= dany; //declaro que el dany que fan els enemics al col·lisionar és de 1
+        barraSalut.Salut(actualSalut); //accedeixo a ScrEnemicsiVida i li passo la salut actual
     }
 }
