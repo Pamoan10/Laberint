@@ -12,7 +12,7 @@ public class ScrEnemicsiVida : MonoBehaviour
     
     public void salutMax (int salut) //marco la salut màxima i la mínima
     {
-        slider.value = salut;
+        slider.maxValue = salut;
         slider.value = salut;
 
         barra.color = degradat.Evaluate(1f); //salut màxima el color serà verd

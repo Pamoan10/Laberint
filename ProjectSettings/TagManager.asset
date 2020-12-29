@@ -7,6 +7,9 @@ TagManager:
   - Pokeball
   - CameraNode
   - Enemic
+  - Tapa
+  - Temps
+  - Sortida
   layers:
   - Default
   - TransparentFX

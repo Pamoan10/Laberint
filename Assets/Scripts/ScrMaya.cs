@@ -9,6 +9,10 @@ public class ScrMaya : MonoBehaviour
     [SerializeField] int maxSalut = 10; //declaro la variable de la salut màxima i de l'actual
     [SerializeField] int actualSalut;
     [SerializeField] ScrEnemicsiVida barraSalut;
+    [SerializeField] GameObject tapa; //em permet controlar si vull que es mostri la tapa que hi ha al mapa o no
+    [SerializeField] GameObject pantallaLooser; //em permet controlar quan vull que apareixi la pantalla LOOSER
+    public int valorPokeball = 2;
+
 
     Vector2 moviment;
 
@@ -22,7 +26,6 @@ public class ScrMaya : MonoBehaviour
         rb = GetComponent<Rigidbody2D>(); //ara rb apunta al component rigidBody del player
         actualSalut = maxSalut; //quan comença la salut està al màxim
         barraSalut.salutMax(maxSalut); //accedeixo a ScrEnemics i vida i li passo la salut màxima
-        
     }
 
     // Update is called once per frame
@@ -38,10 +41,6 @@ public class ScrMaya : MonoBehaviour
         }
 
         animator.SetFloat("Velocitat", moviment.sqrMagnitude);
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            Dany(1);
-        }
     }
     private void FixedUpdate()
     {
@@ -54,17 +53,28 @@ public class ScrMaya : MonoBehaviour
             scrP = collision.GetComponent<ScrPokeball>();
             ScrControlGame.punts += scrP.valorPokeball;
             Destroy(collision.gameObject);
-            ScrControlGame.pokeballs--;
+            ScrControlGame.pokeballs++;
         }
         if (collision.CompareTag("Enemic"))
         {
             Dany(1);
         }
+        if (collision.CompareTag("Tapa"))
+        {
+            tapa.SetActive(false);
+        }
     }
-    
+
     void Dany(int dany)
     {
         actualSalut -= dany; //declaro que el dany que fan els enemics al col·lisionar és de 1
         barraSalut.Salut(actualSalut); //accedeixo a ScrEnemicsiVida i li passo la salut actual
+        if(actualSalut <= 0)
+        {
+            pantallaLooser.SetActive(true);
+            Time.timeScale = 0f;
+        }
+
     }
+
 }

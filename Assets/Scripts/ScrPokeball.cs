@@ -9,12 +9,11 @@ public class ScrPokeball : MonoBehaviour
     
     void Awake()
     {
-        ScrControlGame.pokeballs++;
+        //ScrControlGame.pokeballs++;
+    }
+    private void Update()
+    {
+        print("p" + ScrControlGame.pokeballs);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
