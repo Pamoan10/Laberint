@@ -8,7 +8,7 @@ public class ScrMaya : MonoBehaviour
     [SerializeField] Animator animator; //permet
     [SerializeField] int maxSalut = 10; //declaro la variable de la salut màxima i de l'actual
     [SerializeField] int actualSalut;
-    [SerializeField] ScrEnemicsiVida barraSalut;
+    [SerializeField] ScrVida barraSalut;
     [SerializeField] GameObject tapa; //em permet controlar si vull que es mostri la tapa que hi ha al mapa o no
     [SerializeField] GameObject pantallaLooser; //em permet controlar quan vull que apareixi la pantalla LOOSER
     public int valorPokeball = 2;
@@ -41,12 +41,13 @@ public class ScrMaya : MonoBehaviour
         }
 
         animator.SetFloat("Velocitat", moviment.sqrMagnitude);
+        
     }
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + moviment * velocitat * Time.fixedDeltaTime);
     }
-    private void OnTriggerEnter2D(Collider2D collision) //Quan entri en contacte amb un Gameobject que tingui el tag de "pokeball" o "enemic"
+    private void OnTriggerEnter2D (Collider2D collision) //Quan entri en contacte amb un Gameobject que tingui el tag de "pokeball" o "enemic"
     {
         if (collision.CompareTag("Pokeball"))
         {
@@ -54,10 +55,7 @@ public class ScrMaya : MonoBehaviour
             ScrControlGame.punts += scrP.valorPokeball;
             Destroy(collision.gameObject);
             ScrControlGame.pokeballs++;
-        }
-        if (collision.CompareTag("Enemic"))
-        {
-            Dany(1);
+            ScrControlGame.pokeballsTotal--;
         }
         if (collision.CompareTag("Tapa"))
         {
@@ -65,7 +63,7 @@ public class ScrMaya : MonoBehaviour
         }
     }
 
-    void Dany(int dany)
+    public void Dany(int dany)
     {
         actualSalut -= dany; //declaro que el dany que fan els enemics al col·lisionar és de 1
         barraSalut.Salut(actualSalut); //accedeixo a ScrEnemicsiVida i li passo la salut actual
@@ -74,7 +72,6 @@ public class ScrMaya : MonoBehaviour
             pantallaLooser.SetActive(true);
             Time.timeScale = 0f;
         }
-
     }
 
 }

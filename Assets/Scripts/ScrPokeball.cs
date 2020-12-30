@@ -9,11 +9,8 @@ public class ScrPokeball : MonoBehaviour
     
     void Awake()
     {
-        //ScrControlGame.pokeballs++;
+        ScrControlGame.pokeballsTotal++;
     }
-    private void Update()
-    {
-        print("p" + ScrControlGame.pokeballs);
-    }
+    
 
 }

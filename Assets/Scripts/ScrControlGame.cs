@@ -11,9 +11,10 @@ public class ScrControlGame : MonoBehaviour
     [SerializeField] Animator transicio;
     [SerializeField] float tempsTransicio = 1f;
     [SerializeField] float tempsEspera = 38f; //temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
-    
+
     public static int punts = 0; //puntuació
     public static int pokeballs = 0; //pokeballs recollides
+    public static int pokeballsTotal = 0; //pokeballs restant
 
     void Start()
     {
@@ -23,7 +24,6 @@ public class ScrControlGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
         ControlEntradaUsuari();
     }
     void ControlEntradaUsuari()

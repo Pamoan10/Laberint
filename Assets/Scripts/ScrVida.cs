@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScrEnemicsiVida : MonoBehaviour
+public class ScrVida : MonoBehaviour
 {
  
     [SerializeField] Slider slider; //declaro el slider que després vincularé a Unity
