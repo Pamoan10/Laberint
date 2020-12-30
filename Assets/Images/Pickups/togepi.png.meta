@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 8b2c7b562535301409eddc37699e218d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3284027133427978669
+    second: togepi_0
+  - first:
+      213: 1652409766915019681
+    second: togepi_1
+  - first:
+      213: 3078763767103452753
+    second: togepi_2
+  - first:
+      213: -3927590400416425335
+    second: togepi_3
+  - first:
+      213: -6538709412190227771
+    second: togepi_4
+  - first:
+      213: -8470710946762451766
+    second: togepi_5
+  - first:
+      213: 6399583805461098731
+    second: togepi_6
+  - first:
+      213: -3693669612265946704
+    second: togepi_7
+  - first:
+      213: 4702774253013897601
+    second: togepi_8
+  - first:
+      213: 7747393751525050833
+    second: togepi_9
+  - first:
+      213: 802251091411182159
+    second: togepi_10
+  - first:
+      213: 4741618656816107660
+    second: togepi_11
+  - first:
+      213: -7687855992496491748
+    second: togepi_12
+  - first:
+      213: -5291873060314148908
+    second: togepi_13
+  - first:
+      213: 3323078678754359676
+    second: togepi_14
+  - first:
+      213: 7397894585943072549
+    second: togepi_15
+  - first:
+      213: 4442236520847355394
+    second: togepi_16
+  - first:
+      213: -6377482230223533645
+    second: togepi_17
+  - first:
+      213: -6962231270550917899
+    second: togepi_18
+  - first:
+      213: -5897650714389180773
+    second: togepi_19
+  - first:
+      213: -5536268957340223711
+    second: togepi_20
+  - first:
+      213: 3311528238678245462
+    second: togepi_21
+  - first:
+      213: 8661096357829333766
+    second: togepi_22
+  - first:
+      213: 4708136195524057518
+    second: togepi_23
+  - first:
+      213: 2033728928977170942
+    second: togepi_24
+  - first:
+      213: -4531685933128905112
+    second: togepi_25
+  - first:
+      213: 2629883692760690547
+    second: togepi_26
+  - first:
+      213: 4922881321800805776
+    second: togepi_27
+  - first:
+      213: -8988766489920732896
+    second: togepi_28
+  - first:
+      213: 7902501281265939676
+    second: togepi_29
+  - first:
+      213: 6073657032599899861
+    second: togepi_30
+  - first:
+      213: -6596348528691296406
+    second: togepi_31
+  - first:
+      213: 8999568938458419525
+    second: togepi_32
+  - first:
+      213: -4593382536874719862
+    second: togepi_33
+  - first:
+      213: 309860083436365610
+    second: togepi_34
+  - first:
+      213: 3356198611891661637
+    second: togepi_35
+  - first:
+      213: -1862635596002367130
+    second: togepi_36
+  - first:
+      213: 1316192533530104819
+    second: togepi_37
+  - first:
+      213: -1130059064714102140
+    second: togepi_38
+  - first:
+      213: -128837021694349487
+    second: togepi_39
+  - first:
+      213: -7941739037311674340
+    second: togepi_40
+  - first:
+      213: 4022565055308164782
+    second: togepi_41
+  - first:
+      213: 3936459322578909710
+    second: togepi_42
+  - first:
+      213: -6395976070220068883
+    second: togepi_43
+  - first:
+      213: 5339807734599907486
+    second: togepi_44
+  - first:
+      213: -6954232044112540919
+    second: togepi_45
+  - first:
+      213: 7517543963938155795
+    second: togepi_46
+  - first:
+      213: -5706444481275790402
+    second: togepi_47
+  - first:
+      213: -2519825008498936315
+    second: togepi_48
+  - first:
+      213: 576833279230805491
+    second: togepi_49
+  - first:
+      213: 3244591632234710671
+    second: togepi_50
+  - first:
+      213: 3776019943186096116
+    second: togepi_51
+  - first:
+      213: 7910361220447226946
+    second: togepi_52
+  - first:
+      213: 6611207786569289821
+    second: togepi_53
+  - first:
+      213: -4021743449217202134
+    second: togepi_54
+  - first:
+      213: -4017672731057211593
+    second: togepi_55
+  - first:
+      213: 6786373949851124748
+    second: togepi_56
+  - first:
+      213: -3813506273875314224
+    second: togepi_57
+  - first:
+      213: -3648358221104889368
+    second: togepi_58
+  - first:
+      213: -4707192228791316014
+    second: togepi_59
+  - first:
+      213: -1143850399387591998
+    second: togepi_60
+  - first:
+      213: 4040797240515973036
+    second: togepi_61
+  - first:
+      213: -3500753724568279328
+    second: togepi_62
+  - first:
+      213: 2256542519790137549
+    second: togepi_63
+  - first:
+      213: -5930425798503534698
+    second: togepi_64
+  - first:
+      213: 4389425459048331954
+    second: togepi_65
+  - first:
+      213: -8718576734373280348
+    second: togepi_66
+  - first:
+      213: 1704870134723987068
+    second: togepi_67
+  - first:
+      213: -5967210565407995736
+    second: togepi_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: togepi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da118b04745339d20800000000000000
+      internalID: 3284027133427978669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a31b5c9de98ee610800000000000000
+      internalID: 1652409766915019681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567b8d8557f9ba20800000000000000
+      internalID: 3078763767103452753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_3
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad1ff07556e79c0800000000000000
+      internalID: -3927590400416425335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_4
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f5e4ee66d145a0800000000000000
+      internalID: -6538709412190227771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_5
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4163f064df17a80800000000000000
+      internalID: -8470710946762451766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_6
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0f9da8093efc850800000000000000
+      internalID: 6399583805461098731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_7
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 2992
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cb3bbe037dbcc0800000000000000
+      internalID: -3693669612265946704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1811fb9444c934140800000000000000
+      internalID: 4702774253013897601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94bbec195448b60800000000000000
+      internalID: 7747393751525050833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_10
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ab3cfd1b222b00800000000000000
+      internalID: 802251091411182159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_11
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8093e3db0d9dc140800000000000000
+      internalID: 4741618656816107660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_12
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1373e2f4bf3f4590800000000000000
+      internalID: -7687855992496491748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_13
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df048b3d7d7f86b0800000000000000
+      internalID: -5291873060314148908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_14
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f3dfa372fd1e20800000000000000
+      internalID: 3323078678754359676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_15
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 2618
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1ce02ee99aa660800000000000000
+      internalID: 7397894585943072549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eaf59649ef5ad30800000000000000
+      internalID: 4442236520847355394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9092273b1ae77a0800000000000000
+      internalID: -6377482230223533645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc22b20c8f216f90800000000000000
+      internalID: -6962231270550917899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_19
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e018f1ce5572ea0800000000000000
+      internalID: -5897650714389180773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_20
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b6b837b83b23b0800000000000000
+      internalID: -5536268957340223711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_21
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650871a4369e4fd20800000000000000
+      internalID: 3311528238678245462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_22
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603d8ddbf35623870800000000000000
+      internalID: 8661096357829333766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_23
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 2244
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9de50dce8a65140800000000000000
+      internalID: 4708136195524057518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1be1d8fa1493c10800000000000000
+      internalID: 2033728928977170942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e873a57a73c11c0800000000000000
+      internalID: -4531685933128905112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fe79be8493f7420800000000000000
+      internalID: 2629883692760690547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_27
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da759ca76915440800000000000000
+      internalID: 4922881321800805776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_28
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021075f708c714380800000000000000
+      internalID: -8988766489920732896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_29
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4fceacb035bad60800000000000000
+      internalID: 7902501281265939676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_30
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8bab34e6f94450800000000000000
+      internalID: 6073657032599899861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_31
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 1870
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a674fac46ff0574a0800000000000000
+      internalID: -6596348528691296406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541147c8444e4ec70800000000000000
+      internalID: 8999568938458419525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8589146be60140c0800000000000000
+      internalID: -4593382536874719862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272c4baa18dc4400800000000000000
+      internalID: 309860083436365610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_35
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b26790bdc939e20800000000000000
+      internalID: 3356198611891661637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_36
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e74a4bc69626e0800000000000000
+      internalID: -1862635596002367130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_37
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f35511c22e044210800000000000000
+      internalID: 1316192533530104819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_38
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a718894493150f0800000000000000
+      internalID: -1130059064714102140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_39
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 1496
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f2dff4967463ef0800000000000000
+      internalID: -128837021694349487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185f263c6649c190800000000000000
+      internalID: -7941739037311674340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeea87fa9503d730800000000000000
+      internalID: 4022565055308164782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_42
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a371bc5ec11a630800000000000000
+      internalID: 3936459322578909710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_43
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de742a6c6adec37a0800000000000000
+      internalID: -6395976070220068883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_44
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f5b5d7deca1a40800000000000000
+      internalID: 5339807734599907486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_45
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b880d0dca9d7f90800000000000000
+      internalID: -6954232044112540919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_46
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6ae1d76ea35860800000000000000
+      internalID: 7517543963938155795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_47
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 1122
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb71137af2aec0b0800000000000000
+      internalID: -5706444481275790402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50676406188c70dd0800000000000000
+      internalID: -2519825008498936315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f50d2fafc2510800800000000000000
+      internalID: 576833279230805491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_50
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f860e8026ea170d20800000000000000
+      internalID: 3244591632234710671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_51
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd562d12e176430800000000000000
+      internalID: 3776019943186096116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_52
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c48cd7e9f37cd60800000000000000
+      internalID: 7910361220447226946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_53
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5052c6447abfbb50800000000000000
+      internalID: 6611207786569289821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_54
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2887ab14a5ef28c0800000000000000
+      internalID: -4021743449217202134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_55
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 748
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737bf8900fb5e38c0800000000000000
+      internalID: -4017672731057211593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0447d1d62b0e2e50800000000000000
+      internalID: 6786373949851124748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_57
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d930fcaf34b31bc0800000000000000
+      internalID: -3813506273875314224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1caa9178d6e5dc0800000000000000
+      internalID: -3648358221104889368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_59
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d11a619b91bcaeb0800000000000000
+      internalID: -4707192228791316014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_60
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca50544f1a3020f0800000000000000
+      internalID: -1143850399387591998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_61
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf45526eabc31830800000000000000
+      internalID: 4040797240515973036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_62
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e66bf80903da6fc0800000000000000
+      internalID: -3500753724568279328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_63
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 374
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0f7a05779d05f10800000000000000
+      internalID: 2256542519790137549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f62613825e2bda0800000000000000
+      internalID: -5930425798503534698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_65
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bab1a6e23f5aec30800000000000000
+      internalID: 4389425459048331954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_66
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 0
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a502b037a4610780800000000000000
+      internalID: -8718576734373280348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_67
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 0
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764560da5ae8a710800000000000000
+      internalID: 1704870134723987068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: togepi_68
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 393
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a806ec3b95303da0800000000000000
+      internalID: -5967210565407995736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

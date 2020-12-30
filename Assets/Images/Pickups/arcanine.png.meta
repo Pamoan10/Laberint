@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 79220d6aa2786664c80807cf915c1577
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4871177810391095549
+    second: arcanine_0
+  - first:
+      213: -4386461723291058328
+    second: arcanine_1
+  - first:
+      213: 111564689301872553
+    second: arcanine_2
+  - first:
+      213: -7642314080795907161
+    second: arcanine_3
+  - first:
+      213: 8231912596426057722
+    second: arcanine_4
+  - first:
+      213: -776146502686223069
+    second: arcanine_5
+  - first:
+      213: 4262387744648095628
+    second: arcanine_6
+  - first:
+      213: 6579782054316238963
+    second: arcanine_7
+  - first:
+      213: -3457791418593872617
+    second: arcanine_8
+  - first:
+      213: -2264391060386380583
+    second: arcanine_9
+  - first:
+      213: 6211499740638283022
+    second: arcanine_10
+  - first:
+      213: 4842754824507639739
+    second: arcanine_11
+  - first:
+      213: -2172189216492116876
+    second: arcanine_12
+  - first:
+      213: 12375549949109791
+    second: arcanine_13
+  - first:
+      213: 6665510369968105471
+    second: arcanine_14
+  - first:
+      213: 3411273729309361596
+    second: arcanine_15
+  - first:
+      213: -4333295390955338599
+    second: arcanine_16
+  - first:
+      213: -7648296907158200511
+    second: arcanine_17
+  - first:
+      213: 3036322806406734910
+    second: arcanine_18
+  - first:
+      213: -4518527037984911603
+    second: arcanine_19
+  - first:
+      213: 2549971439803174847
+    second: arcanine_20
+  - first:
+      213: 8867764541401834173
+    second: arcanine_21
+  - first:
+      213: -4133944629837140327
+    second: arcanine_22
+  - first:
+      213: -4382348829283503963
+    second: arcanine_23
+  - first:
+      213: 1466608146909176093
+    second: arcanine_24
+  - first:
+      213: -8970492621835411166
+    second: arcanine_25
+  - first:
+      213: -4620881342740731596
+    second: arcanine_26
+  - first:
+      213: -2803544210278768965
+    second: arcanine_27
+  - first:
+      213: -1275405046606054832
+    second: arcanine_28
+  - first:
+      213: -3096767388116899821
+    second: arcanine_29
+  - first:
+      213: -3366899724610227937
+    second: arcanine_30
+  - first:
+      213: -6334335858902354085
+    second: arcanine_31
+  - first:
+      213: 1544793611325545230
+    second: arcanine_32
+  - first:
+      213: -400288833402796541
+    second: arcanine_33
+  - first:
+      213: 3885134924210134235
+    second: arcanine_34
+  - first:
+      213: -6896302504472142196
+    second: arcanine_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcanine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df85022f866e99340800000000000000
+      internalID: 4871177810391095549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 532
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f736a9d482023c0800000000000000
+      internalID: -4386461723291058328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 532
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af905b6e7b5c8100800000000000000
+      internalID: 111564689301872553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 532
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba13095db01f590800000000000000
+      internalID: -7642314080795907161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 532
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e90454e0ad3270800000000000000
+      internalID: 8231912596426057722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d9b53ed29a35f0800000000000000
+      internalID: -776146502686223069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 456
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876ab6121b072b30800000000000000
+      internalID: 4262387744648095628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 456
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378620fcae4105b50800000000000000
+      internalID: 6579782054316238963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 456
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715715366057300d0800000000000000
+      internalID: -3457791418593872617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 456
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4891de3544390e0800000000000000
+      internalID: -2264391060386380583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050d2baa1ea33650800000000000000
+      internalID: 6211499740638283022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 380
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb74619dadbe43340800000000000000
+      internalID: 4842754824507639739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 380
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ad069a65dad1e0800000000000000
+      internalID: -2172189216492116876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 380
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16ed924f77fb2000800000000000000
+      internalID: 12375549949109791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 380
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7a1a8bd56a08c50800000000000000
+      internalID: 6665510369968105471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54b131267475f20800000000000000
+      internalID: 3411273729309361596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 304
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994054bfcca0dd3c0800000000000000
+      internalID: -4333295390955338599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 304
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fdd104c7acbd590800000000000000
+      internalID: -7648296907158200511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 304
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346a4b518f232a20800000000000000
+      internalID: 3036322806406734910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 304
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f49e06997fa41c0800000000000000
+      internalID: -4518527037984911603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf0cd0a381536320800000000000000
+      internalID: 2549971439803174847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 228
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2af02fdd0a01b70800000000000000
+      internalID: 8867764541401834173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 228
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6c61034741a6c0800000000000000
+      internalID: -4133944629837140327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 228
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a035bc55f4ce23c0800000000000000
+      internalID: -4382348829283503963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 228
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112735d6507a5410800000000000000
+      internalID: 1466608146909176093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ec37fc78628380800000000000000
+      internalID: -8970492621835411166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 152
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43965b8b6e45fdfb0800000000000000
+      internalID: -4620881342740731596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 152
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe1b32056fc719d0800000000000000
+      internalID: -2803544210278768965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 152
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3e441ed9dc4ee0800000000000000
+      internalID: -1275405046606054832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 152
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182747c7721605d0800000000000000
+      internalID: -3096767388116899821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113f300a8e5641d0800000000000000
+      internalID: -3366899724610227937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 76
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b573b1ad81be718a0800000000000000
+      internalID: -6334335858902354085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 76
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b1a56da95307510800000000000000
+      internalID: 1544793611325545230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 76
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30688754d63e17af0800000000000000
+      internalID: -400288833402796541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 76
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc520611a5cae530800000000000000
+      internalID: 3885134924210134235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcanine_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e1d4d09696b40a0800000000000000
+      internalID: -6896302504472142196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

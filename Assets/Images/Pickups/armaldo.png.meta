@@ -1,0 +1,2036 @@
+fileFormatVersion: 2
+guid: bb5df3bd781f05945aeb7402a2b1fb88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4332096473832993403
+    second: armaldo_0
+  - first:
+      213: 1000624541496953384
+    second: armaldo_1
+  - first:
+      213: 4027947233273028667
+    second: armaldo_2
+  - first:
+      213: -2623530517460924098
+    second: armaldo_3
+  - first:
+      213: 4415577304759138143
+    second: armaldo_4
+  - first:
+      213: -2426239746771021551
+    second: armaldo_5
+  - first:
+      213: 1067032921969516049
+    second: armaldo_6
+  - first:
+      213: 6385846262447468053
+    second: armaldo_7
+  - first:
+      213: -4339865584998727269
+    second: armaldo_8
+  - first:
+      213: 5097634369959907399
+    second: armaldo_9
+  - first:
+      213: -7144061704714772185
+    second: armaldo_10
+  - first:
+      213: -3845925977874241773
+    second: armaldo_11
+  - first:
+      213: 8156541389915835963
+    second: armaldo_12
+  - first:
+      213: -6410146942468005167
+    second: armaldo_13
+  - first:
+      213: -3181581672621714507
+    second: armaldo_14
+  - first:
+      213: 8481228374122987126
+    second: armaldo_15
+  - first:
+      213: 7305208811163211979
+    second: armaldo_16
+  - first:
+      213: -6858908370148824049
+    second: armaldo_17
+  - first:
+      213: -1183848086452597608
+    second: armaldo_18
+  - first:
+      213: -2580956994766059206
+    second: armaldo_19
+  - first:
+      213: 1690321113360411528
+    second: armaldo_20
+  - first:
+      213: -6636700833346006609
+    second: armaldo_21
+  - first:
+      213: -4895164194876733534
+    second: armaldo_22
+  - first:
+      213: 7131804362267789212
+    second: armaldo_23
+  - first:
+      213: 7579022356394728704
+    second: armaldo_24
+  - first:
+      213: 5951226520399802477
+    second: armaldo_25
+  - first:
+      213: -1466604013802938891
+    second: armaldo_26
+  - first:
+      213: 1648155288205926921
+    second: armaldo_27
+  - first:
+      213: 104700698114455355
+    second: armaldo_28
+  - first:
+      213: 8293359100873586606
+    second: armaldo_29
+  - first:
+      213: -1333543888874245713
+    second: armaldo_30
+  - first:
+      213: -5726868540501285276
+    second: armaldo_31
+  - first:
+      213: 8794015001217388318
+    second: armaldo_32
+  - first:
+      213: -1367988652372760950
+    second: armaldo_33
+  - first:
+      213: 1097227123742129702
+    second: armaldo_34
+  - first:
+      213: 6069448920127480452
+    second: armaldo_35
+  - first:
+      213: 7085474931229845441
+    second: armaldo_36
+  - first:
+      213: 2655896171878514017
+    second: armaldo_37
+  - first:
+      213: -5859947044992955104
+    second: armaldo_38
+  - first:
+      213: 2500417736468017810
+    second: armaldo_39
+  - first:
+      213: 5408747595935326489
+    second: armaldo_40
+  - first:
+      213: -1342124023129921535
+    second: armaldo_41
+  - first:
+      213: 2589487727050008351
+    second: armaldo_42
+  - first:
+      213: 3281409973636575296
+    second: armaldo_43
+  - first:
+      213: 1420484182342299601
+    second: armaldo_44
+  - first:
+      213: -7077408780266094932
+    second: armaldo_45
+  - first:
+      213: -57571488735326178
+    second: armaldo_46
+  - first:
+      213: -5554656638703213740
+    second: armaldo_47
+  - first:
+      213: -1590833799887522034
+    second: armaldo_48
+  - first:
+      213: -8084302220223360397
+    second: armaldo_49
+  - first:
+      213: 4076616214306725990
+    second: armaldo_50
+  - first:
+      213: 7357825841995698979
+    second: armaldo_51
+  - first:
+      213: 3026472126362731985
+    second: armaldo_52
+  - first:
+      213: -4273024949006352110
+    second: armaldo_53
+  - first:
+      213: -3933819941173539008
+    second: armaldo_54
+  - first:
+      213: -3984642017811380050
+    second: armaldo_55
+  - first:
+      213: 6243918139017144406
+    second: armaldo_56
+  - first:
+      213: 8845126417360942414
+    second: armaldo_57
+  - first:
+      213: 2516722754521756467
+    second: armaldo_58
+  - first:
+      213: 3176248649684174701
+    second: armaldo_59
+  - first:
+      213: -5773344147211493571
+    second: armaldo_60
+  - first:
+      213: 4355796139173944870
+    second: armaldo_61
+  - first:
+      213: -484743922018244215
+    second: armaldo_62
+  - first:
+      213: -224178040861640688
+    second: armaldo_63
+  - first:
+      213: 5805198676629456060
+    second: armaldo_64
+  - first:
+      213: -5331400478286557531
+    second: armaldo_65
+  - first:
+      213: -8920515036218512351
+    second: armaldo_66
+  - first:
+      213: -7708344410018436174
+    second: armaldo_67
+  - first:
+      213: 4170864362126903973
+    second: armaldo_68
+  - first:
+      213: -387781586586268349
+    second: armaldo_69
+  - first:
+      213: 8434819692253752637
+    second: armaldo_70
+  - first:
+      213: -3214532564009421395
+    second: armaldo_71
+  - first:
+      213: 6842193009891622542
+    second: armaldo_72
+  - first:
+      213: -5905702287528898047
+    second: armaldo_73
+  - first:
+      213: 7926207223055743997
+    second: armaldo_74
+  - first:
+      213: -1780963168499402801
+    second: armaldo_75
+  - first:
+      213: 6655110847672880086
+    second: armaldo_76
+  - first:
+      213: 969992367840425734
+    second: armaldo_77
+  - first:
+      213: 801859788210813972
+    second: armaldo_78
+  - first:
+      213: 1220334794469464269
+    second: armaldo_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armaldo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4670a53d41e3c0800000000000000
+      internalID: -4332096473832993403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1080
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ac67d08bee2ed00800000000000000
+      internalID: 1000624541496953384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1080
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a14deaa426e730800000000000000
+      internalID: 4027947233273028667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1080
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394859f4e8579bd0800000000000000
+      internalID: -2623530517460924098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1080
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f178f928474d30800000000000000
+      internalID: 4415577304759138143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11197c91ec3445ed0800000000000000
+      internalID: -2426239746771021551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1008
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed3a50accdece00800000000000000
+      internalID: 1067032921969516049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1008
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eef6f87551f9850800000000000000
+      internalID: 6385846262447468053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1008
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9145397e33b5c3c0800000000000000
+      internalID: -4339865584998727269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1008
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7405848737f6eb640800000000000000
+      internalID: 5097634369959907399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721210dfab13bdc90800000000000000
+      internalID: -7144061704714772185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 936
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317eb5023b680aac0800000000000000
+      internalID: -3845925977874241773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 936
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e44bdcd2bd13170800000000000000
+      internalID: 8156541389915835963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 936
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2632871559a07a0800000000000000
+      internalID: -6410146942468005167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 936
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b35d735350c8d3d0800000000000000
+      internalID: -3181581672621714507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7092554063b570800000000000000
+      internalID: 8481228374122987126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 864
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8df6785b0516560800000000000000
+      internalID: 7305208811163211979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 864
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c635a6d2340d0a0800000000000000
+      internalID: -6858908370148824049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 864
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c87fa0070229fe0800000000000000
+      internalID: -1183848086452597608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 864
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c86aa9499e2cd0800000000000000
+      internalID: -2580956994766059206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba03ec81a357710800000000000000
+      internalID: 1690321113360411528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 792
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15fdb31c3b5e3a0800000000000000
+      internalID: -6636700833346006609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 792
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a74927b912e01cb0800000000000000
+      internalID: -4895164194876733534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 792
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c978d84184249f260800000000000000
+      internalID: 7131804362267789212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 792
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dd6a18da81e2960800000000000000
+      internalID: 7579022356394728704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6070564df0079250800000000000000
+      internalID: 5951226520399802477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 720
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1d1b7b6395abe0800000000000000
+      internalID: -1466604013802938891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 720
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022238908c6fd610800000000000000
+      internalID: 1648155288205926921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 720
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f8deeab8f37100800000000000000
+      internalID: 104700698114455355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 720
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b252892ee71370800000000000000
+      internalID: 8293359100873586606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f14306ec4e7de0800000000000000
+      internalID: -1333543888874245713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 648
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466af0897631680b0800000000000000
+      internalID: -5726868540501285276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 648
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc4090d0e9a0a70800000000000000
+      internalID: 8794015001217388318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 648
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866e8e819de30de0800000000000000
+      internalID: -1367988652372760950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb29471422a3f00800000000000000
+      internalID: 1097227123742129702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a392b2a30b3450800000000000000
+      internalID: 6069448920127480452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 576
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e3e4d8e9a45260800000000000000
+      internalID: 7085474931229845441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 576
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d732d2f73abd420800000000000000
+      internalID: 2655896171878514017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 576
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d489cb5394daea0800000000000000
+      internalID: -5859947044992955104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 576
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292334cfea443b220800000000000000
+      internalID: 2500417736468017810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911297f184bbf0b40800000000000000
+      internalID: 5408747595935326489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 504
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108a2d4df41df5de0800000000000000
+      internalID: -1342124023129921535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 504
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ac093e55bfe320800000000000000
+      internalID: 2589487727050008351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04038014cf8e98d20800000000000000
+      internalID: 3281409973636575296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 504
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe29976d296b310800000000000000
+      internalID: 1420484182342299601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae320a463ef7cd90800000000000000
+      internalID: -7077408780266094932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 432
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e109db83907733ff0800000000000000
+      internalID: -57571488735326178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 432
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45364d88735e9e2b0800000000000000
+      internalID: -5554656638703213740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 432
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f40d66193ce9e0800000000000000
+      internalID: -1590833799887522034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 432
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725fa296f9cecf80800000000000000
+      internalID: -8084302220223360397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a95b19dc039830800000000000000
+      internalID: 4076616214306725990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 360
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d75fae9f3c1660800000000000000
+      internalID: 7357825841995698979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 360
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5c87e2d50300a20800000000000000
+      internalID: 3026472126362731985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 360
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2114816c27a23b4c0800000000000000
+      internalID: -4273024949006352110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 360
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc0041b934869c0800000000000000
+      internalID: -3933819941173539008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c1434235b3b8c0800000000000000
+      internalID: -3984642017811380050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 288
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582cba377ad6a650800000000000000
+      internalID: 6243918139017144406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_57
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 288
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f834fc9330ca70800000000000000
+      internalID: 8845126417360942414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 288
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3337965d2023de220800000000000000
+      internalID: 2516722754521756467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 288
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674db2815d441c20800000000000000
+      internalID: 3176248649684174701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd06b2616f0efa0800000000000000
+      internalID: -5773344147211493571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 216
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1b75b285e27c30800000000000000
+      internalID: 4355796139173944870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_62
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 216
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a211a8f7d549f0800000000000000
+      internalID: -484743922018244215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 216
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018bff3724f83ecf0800000000000000
+      internalID: -224178040861640688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_64
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 216
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4011b6075309050800000000000000
+      internalID: 5805198676629456060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec160138f0306b0800000000000000
+      internalID: -5331400478286557531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2aa466d6f33480800000000000000
+      internalID: -8920515036218512351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_67
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbab728995760590800000000000000
+      internalID: -7708344410018436174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 144
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa09e60a03e1e930800000000000000
+      internalID: 4170864362126903973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_69
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 144
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d861993b25e9af0800000000000000
+      internalID: -387781586586268349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d214d02df7e0570800000000000000
+      internalID: 8434819692253752637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 72
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5fa431aafa363d0800000000000000
+      internalID: -3214532564009421395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_72
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 72
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e304f7a4a54fe50800000000000000
+      internalID: 6842193009891622542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d0aa2f0bba0ea0800000000000000
+      internalID: -5905702287528898047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 72
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7f5a797b8ffd60800000000000000
+      internalID: 7926207223055743997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f9872f6fb847e0800000000000000
+      internalID: -1780963168499402801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db04604e04bb5c50800000000000000
+      internalID: 6655110847672880086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_77
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607f7f75bea167d00800000000000000
+      internalID: 969992367840425734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_78
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb9fb9a37c02b00800000000000000
+      internalID: 801859788210813972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armaldo_79
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d66ba7008fe010800000000000000
+      internalID: 1220334794469464269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
