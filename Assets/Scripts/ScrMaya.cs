@@ -55,6 +55,7 @@ public class ScrMaya : MonoBehaviour
             ScrControlGame.punts += scrP.valorPokeball;
             Destroy(collision.gameObject);
             ScrControlGame.pokeballs++;
+            print("pokeball" + ScrControlGame.pokeballs);
             ScrControlGame.pokeballsTotal--;
         }
         if (collision.CompareTag("Tapa"))

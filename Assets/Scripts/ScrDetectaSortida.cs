@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class ScrDetectaSortida : MonoBehaviour
 {
@@ -30,9 +31,19 @@ public class ScrDetectaSortida : MonoBehaviour
             }
         }
     }
-    private void Update()
+    void Update()
     {
-        recollides.text = ("RECOLLIDES: " + ScrControlGame.pokeballsTotal);
-        puntuacio.text = ("PUNTUACIÓ: " + ScrControlGame.pokeballs);
+        recollides.text = ("RECOLLIDES: " + ScrControlGame.pokeballs);
+        puntuacio.text = ("PUNTUACIÓ: " + ScrControlGame.punts);
+        if (pantallaWin.activeSelf) SeguentNivell();
+    }
+    void SeguentNivell()
+    {
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            Time.timeScale = 1;
+        }
+       
     }
 }

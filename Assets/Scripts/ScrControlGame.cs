@@ -16,6 +16,7 @@ public class ScrControlGame : MonoBehaviour
     public static int pokeballs = 0; //pokeballs recollides
     public static int pokeballsTotal = 0; //pokeballs restant
 
+
     void Start()
     {
         StartCoroutine(esperaIntro()); //inicio els temps d'espera per a canviar d'escena
