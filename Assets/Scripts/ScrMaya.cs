@@ -13,7 +13,6 @@ public class ScrMaya : MonoBehaviour
     [SerializeField] GameObject pantallaLooser; //em permet controlar quan vull que apareixi la pantalla LOOSER
     public int valorPokeball = 2;
 
-
     Vector2 moviment;
 
     //Vull definir un objecte del tipus Rigidbody anomenat rb (variable), val 0. Per accedir al component RigidBody:
