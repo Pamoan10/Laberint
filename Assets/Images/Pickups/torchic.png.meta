@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 2b0521e6f2a8c3c46a71a0561b8e4f50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4742363908721095077
+    second: torchic_0
+  - first:
+      213: 4640358745851507995
+    second: torchic_1
+  - first:
+      213: 3930594427649166682
+    second: torchic_2
+  - first:
+      213: 6100108882877073218
+    second: torchic_3
+  - first:
+      213: -3518654626815875962
+    second: torchic_4
+  - first:
+      213: -6288980392614073640
+    second: torchic_5
+  - first:
+      213: -1408408707078069418
+    second: torchic_6
+  - first:
+      213: 4287588982182373649
+    second: torchic_7
+  - first:
+      213: -6345952741521306424
+    second: torchic_8
+  - first:
+      213: -585443735971518251
+    second: torchic_9
+  - first:
+      213: -5853829911743446592
+    second: torchic_10
+  - first:
+      213: -4658104226557726943
+    second: torchic_11
+  - first:
+      213: -5964878942525057336
+    second: torchic_12
+  - first:
+      213: -3141213344766878221
+    second: torchic_13
+  - first:
+      213: 5564729453279397881
+    second: torchic_14
+  - first:
+      213: 7324358680494024412
+    second: torchic_15
+  - first:
+      213: 8853486256574759350
+    second: torchic_16
+  - first:
+      213: -2119123316525692704
+    second: torchic_17
+  - first:
+      213: -4948182223513698893
+    second: torchic_18
+  - first:
+      213: 3751172018110883038
+    second: torchic_19
+  - first:
+      213: -2544812938713373959
+    second: torchic_20
+  - first:
+      213: -1500463875847219447
+    second: torchic_21
+  - first:
+      213: -423699172378710239
+    second: torchic_22
+  - first:
+      213: -8948558163408941219
+    second: torchic_23
+  - first:
+      213: -4736899123411987204
+    second: torchic_24
+  - first:
+      213: -6136923343916574632
+    second: torchic_25
+  - first:
+      213: 1709788881093541010
+    second: torchic_26
+  - first:
+      213: -1196874988212145357
+    second: torchic_27
+  - first:
+      213: 6168162384113288345
+    second: torchic_28
+  - first:
+      213: 4454687986882745273
+    second: torchic_29
+  - first:
+      213: -4368548904926354856
+    second: torchic_30
+  - first:
+      213: 1125518730975581850
+    second: torchic_31
+  - first:
+      213: -946727467583707606
+    second: torchic_32
+  - first:
+      213: 313600109354689692
+    second: torchic_33
+  - first:
+      213: -8705848139282081010
+    second: torchic_34
+  - first:
+      213: -8238189318538191739
+    second: torchic_35
+  - first:
+      213: 1608269826133524754
+    second: torchic_36
+  - first:
+      213: -8466578948567240706
+    second: torchic_37
+  - first:
+      213: -8973645064541796812
+    second: torchic_38
+  - first:
+      213: 5137480185015094116
+    second: torchic_39
+  - first:
+      213: 1204713104537892590
+    second: torchic_40
+  - first:
+      213: -7940252064047107105
+    second: torchic_41
+  - first:
+      213: -3569266178518018259
+    second: torchic_42
+  - first:
+      213: -221773663127441795
+    second: torchic_43
+  - first:
+      213: 3918726852431346449
+    second: torchic_44
+  - first:
+      213: -1555820919844859066
+    second: torchic_45
+  - first:
+      213: 4100678809640050006
+    second: torchic_46
+  - first:
+      213: -3832708599398404112
+    second: torchic_47
+  - first:
+      213: 3606923537800877861
+    second: torchic_48
+  - first:
+      213: 5177981025254722135
+    second: torchic_49
+  - first:
+      213: -6601252488759605386
+    second: torchic_50
+  - first:
+      213: -869960238443616919
+    second: torchic_51
+  - first:
+      213: -1117262313341490536
+    second: torchic_52
+  - first:
+      213: -2025649733764322436
+    second: torchic_53
+  - first:
+      213: 1862061156671669578
+    second: torchic_54
+  - first:
+      213: 635453238196643849
+    second: torchic_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torchic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ecb01b62dbf2eb0800000000000000
+      internalID: -4742363908721095077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153bd491bdd56040800000000000000
+      internalID: 4640358745851507995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d88288ec64c8630800000000000000
+      internalID: 3930594427649166682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c71f85b0f7a450800000000000000
+      internalID: 6100108882877073218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ea51724a3b2fc0800000000000000
+      internalID: -3518654626815875962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da67d247ad09b8a0800000000000000
+      internalID: -6288980392614073640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3374
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6536b043eb3547ce0800000000000000
+      internalID: -1408408707078069418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ebd17673908b30800000000000000
+      internalID: 4287588982182373649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc4389a95aee7a0800000000000000
+      internalID: -6345952741521306424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8a071260610e7f0800000000000000
+      internalID: -585443735971518251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c9fec5b403cea0800000000000000
+      internalID: -5853829911743446592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fe749b2e61b5fb0800000000000000
+      internalID: -4658104226557726943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_12
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6169e743e783da0800000000000000
+      internalID: -5964878942525057336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_13
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2892
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd14751b1b2864d0800000000000000
+      internalID: -3141213344766878221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f74fdd54f3e93d40800000000000000
+      internalID: 5564729453279397881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6256ee96955a560800000000000000
+      internalID: 7324358680494024412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b101f2b7d6edda70800000000000000
+      internalID: 8853486256574759350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e80d3b329c5792e0800000000000000
+      internalID: -2119123316525692704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd309bfb76845bb0800000000000000
+      internalID: -4948182223513698893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_19
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed462ee6317de0430800000000000000
+      internalID: 3751172018110883038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2410
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2eb208d120facd0800000000000000
+      internalID: -2544812938713373959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90712d10e084d2be0800000000000000
+      internalID: -1500463875847219447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6dbaf8d7be1af0800000000000000
+      internalID: -423699172378710239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f861a03c550d380800000000000000
+      internalID: -8948558163408941219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45b2c2857234eb0800000000000000
+      internalID: -4736899123411987204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858dc08cbb445daa0800000000000000
+      internalID: -6136923343916574632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c3e72bde36ab710800000000000000
+      internalID: 1709788881093541010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1928
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333b01f1a88d36fe0800000000000000
+      internalID: -1196874988212145357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994cffd0207b99550800000000000000
+      internalID: 6168162384113288345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b398534f1b32dd30800000000000000
+      internalID: 4454687986882745273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_30
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85261f1aaebcf53c0800000000000000
+      internalID: -4368548904926354856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9619d39255ae9f00800000000000000
+      internalID: 1125518730975581850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26619b526c8cd2f0800000000000000
+      internalID: -946727467583707606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_33
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942c9f43a12a5400800000000000000
+      internalID: 313600109354689692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_34
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1446
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b989d2e3d9e2780800000000000000
+      internalID: -8705848139282081010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c1d1c66721cad80800000000000000
+      internalID: -8238189318538191739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110ba9c2e8b15610800000000000000
+      internalID: 1608269826133524754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff69dbdd4ba08a80800000000000000
+      internalID: -8466578948567240706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368c83bb55377380800000000000000
+      internalID: -8973645064541796812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_39
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bce6c320ffb4740800000000000000
+      internalID: 5137480185015094116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_40
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63d3c8f2008b010800000000000000
+      internalID: 1204713104537892590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_41
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 964
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f86721de8ec190800000000000000
+      internalID: -7940252064047107105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271e98425b677ec0800000000000000
+      internalID: -3569266178518018259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e60c4470a1cecf0800000000000000
+      internalID: -221773663127441795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b74fa5f4d126630800000000000000
+      internalID: 3918726852431346449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439682dd1d986ae0800000000000000
+      internalID: -1555820919844859066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d119aa6a988e830800000000000000
+      internalID: 4100678809640050006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_47
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe54dd5db7fcac0800000000000000
+      internalID: -3832708599398404112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 482
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527dd9ae8dd5e0230800000000000000
+      internalID: 3606923537800877861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4500fe42ebd740800000000000000
+      internalID: 5177981025254722135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67702de16d3a364a0800000000000000
+      internalID: -6601252488759605386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_51
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965aadab5c74de3f0800000000000000
+      internalID: -869960238443616919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_52
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a695478dfae70f0800000000000000
+      internalID: -1117262313341490536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_53
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bec9bac4273e3e0800000000000000
+      internalID: -2025649733764322436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_54
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c771a1ce57d910800000000000000
+      internalID: 1862061156671669578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torchic_55
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90825167a5591d800800000000000000
+      internalID: 635453238196643849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1220 @@
+fileFormatVersion: 2
+guid: 668a5ef82db1f144f899feaf6701b096
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3377593883505760119
+    second: caterpie_0
+  - first:
+      213: -3074088014516810688
+    second: caterpie_1
+  - first:
+      213: 8484250793542546471
+    second: caterpie_2
+  - first:
+      213: 4063567322393540491
+    second: caterpie_3
+  - first:
+      213: -7478020107234654811
+    second: caterpie_4
+  - first:
+      213: 9104145534176698343
+    second: caterpie_5
+  - first:
+      213: -2290628005750393671
+    second: caterpie_6
+  - first:
+      213: -442428571275195745
+    second: caterpie_7
+  - first:
+      213: -4382288037879108431
+    second: caterpie_8
+  - first:
+      213: -3153498046681917166
+    second: caterpie_9
+  - first:
+      213: 2423749826803561956
+    second: caterpie_10
+  - first:
+      213: 8120034607652381647
+    second: caterpie_11
+  - first:
+      213: 1699810344573922483
+    second: caterpie_12
+  - first:
+      213: -3843556698242963274
+    second: caterpie_13
+  - first:
+      213: -665883586965209761
+    second: caterpie_14
+  - first:
+      213: -2905476836133906601
+    second: caterpie_15
+  - first:
+      213: 8077514710587186030
+    second: caterpie_16
+  - first:
+      213: 553100382298163310
+    second: caterpie_17
+  - first:
+      213: -6647578849448321791
+    second: caterpie_18
+  - first:
+      213: 2856773459373959671
+    second: caterpie_19
+  - first:
+      213: -2509724269382042859
+    second: caterpie_20
+  - first:
+      213: -3751891403248104527
+    second: caterpie_21
+  - first:
+      213: -1571759054497665638
+    second: caterpie_22
+  - first:
+      213: 6127443563712287621
+    second: caterpie_23
+  - first:
+      213: -9091410279971358301
+    second: caterpie_24
+  - first:
+      213: 3745623238363692681
+    second: caterpie_25
+  - first:
+      213: 4064858235158022885
+    second: caterpie_26
+  - first:
+      213: 2068849002985692883
+    second: caterpie_27
+  - first:
+      213: -9046492529322482274
+    second: caterpie_28
+  - first:
+      213: -2142099035473990502
+    second: caterpie_29
+  - first:
+      213: -42416283357711980
+    second: caterpie_30
+  - first:
+      213: 3005184579492402834
+    second: caterpie_31
+  - first:
+      213: -5593544202089200000
+    second: caterpie_32
+  - first:
+      213: 2168625846749040205
+    second: caterpie_33
+  - first:
+      213: -2118426254785124884
+    second: caterpie_34
+  - first:
+      213: 8752497640850990882
+    second: caterpie_35
+  - first:
+      213: -8489361110924447163
+    second: caterpie_36
+  - first:
+      213: 237215191148960667
+    second: caterpie_37
+  - first:
+      213: -1719079468248950573
+    second: caterpie_38
+  - first:
+      213: -1034641687346947800
+    second: caterpie_39
+  - first:
+      213: -5068799466578263633
+    second: caterpie_40
+  - first:
+      213: 2322330730405502178
+    second: caterpie_41
+  - first:
+      213: 550043845386240297
+    second: caterpie_42
+  - first:
+      213: 7449493018877630434
+    second: caterpie_43
+  - first:
+      213: -5802085674808079427
+    second: caterpie_44
+  - first:
+      213: -5451818963550770619
+    second: caterpie_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caterpie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3164
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77794e5edbf9fde20800000000000000
+      internalID: 3377593883505760119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3164
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c807eec35a655d0800000000000000
+      internalID: -3074088014516810688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3164
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724fd6e252d1eb570800000000000000
+      internalID: 8484250793542546471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3164
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f62433f0b46830800000000000000
+      internalID: 4063567322393540491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3164
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5cc0d255cb83890800000000000000
+      internalID: -7478020107234654811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3164
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9f04a02c685e70800000000000000
+      internalID: 9104145534176698343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2712
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4bfac07fd0630e0800000000000000
+      internalID: -2290628005750393671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2712
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a88aafe8d2cd9f0800000000000000
+      internalID: -442428571275195745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2712
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca5c67f3cfe23c0800000000000000
+      internalID: -4382288037879108431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2712
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d2a70c368c34d0800000000000000
+      internalID: -3153498046681917166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2712
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e57a0b30a3e2a120800000000000000
+      internalID: 2423749826803561956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_11
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2712
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3aff0347820b070800000000000000
+      internalID: 8120034607652381647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2260
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcecdd9080f69710800000000000000
+      internalID: 1699810344573922483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2260
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a7270c81f8aac0800000000000000
+      internalID: -3843556698242963274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2260
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfc29d76e42c6f0800000000000000
+      internalID: -665883586965209761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2260
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757dc1f163cada7d0800000000000000
+      internalID: -2905476836133906601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_16
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2260
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b9a8035d8191070800000000000000
+      internalID: 8077514710587186030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_17
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2260
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68c3040ed10da700800000000000000
+      internalID: 553100382298163310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1808
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d9b3eb14e0fb3a0800000000000000
+      internalID: -6647578849448321791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1808
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9afb1535c45a720800000000000000
+      internalID: 2856773459373959671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1808
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7e47f21bab2dd0800000000000000
+      internalID: -2509724269382042859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1808
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb0e89a5aa9eebc0800000000000000
+      internalID: -3751891403248104527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1808
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da92ca77dff2ae0800000000000000
+      internalID: -1571759054497665638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_23
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1808
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5831354e47d090550800000000000000
+      internalID: 6127443563712287621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f8fac482d4d180800000000000000
+      internalID: -9091410279971358301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1356
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebd197d702bf330800000000000000
+      internalID: 3745623238363692681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1356
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4ae04707496830800000000000000
+      internalID: 4064858235158022885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1356
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de12ecf43706bc10800000000000000
+      internalID: 2068849002985692883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1356
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95228699f6647280800000000000000
+      internalID: -9046492529322482274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1356
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9caddcc64cb542e0800000000000000
+      internalID: -2142099035473990502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49175c17d9e496ff0800000000000000
+      internalID: -42416283357711980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 904
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2965021f37f84b920800000000000000
+      internalID: 3005184579492402834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 904
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086070f1f2dbf52b0800000000000000
+      internalID: -5593544202089200000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 904
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e053eb7b1881e10800000000000000
+      internalID: 2168625846749040205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 904
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5eba09b86d992e0800000000000000
+      internalID: -2118426254785124884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_35
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 904
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272e5c4b3e177970800000000000000
+      internalID: 8752497640850990882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54235555c0bbf2a80800000000000000
+      internalID: -8489361110924447163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 452
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b92c3a5f1ca4300800000000000000
+      internalID: 237215191148960667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 452
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d89a5ae45a9428e0800000000000000
+      internalID: -1719079468248950573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 452
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829dfdbfdd634a1f0800000000000000
+      internalID: -1034641687346947800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 452
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c9e4adb108a9b0800000000000000
+      internalID: -5068799466578263633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 452
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec1bccbe739a3020800000000000000
+      internalID: 2322330730405502178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921032f86f522a700800000000000000
+      internalID: 550043845386240297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e714fa7e6ae16760800000000000000
+      internalID: 7449493018877630434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb8eacc1d9da7fa0800000000000000
+      internalID: -5802085674808079427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpie_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a61d1a98f3754b0800000000000000
+      internalID: -5451818963550770619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

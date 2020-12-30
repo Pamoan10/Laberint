@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ScrUI : MonoBehaviour
 {
-    [SerializeField] Text puntuacio, temps, pokeballs;
+    [SerializeField] Text puntuacio, temps;
     
     float crono = 0;
     void Start()
