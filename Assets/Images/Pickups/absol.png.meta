@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 1b740813b66e6c54dbbdd56ef122475f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9140755281527853849
+    second: absol_0
+  - first:
+      213: -6579270087025536664
+    second: absol_1
+  - first:
+      213: 8152578234648174451
+    second: absol_2
+  - first:
+      213: -3170113895299528215
+    second: absol_3
+  - first:
+      213: -7467921101891426067
+    second: absol_4
+  - first:
+      213: 4905622554332328092
+    second: absol_5
+  - first:
+      213: -3326862850937750825
+    second: absol_6
+  - first:
+      213: 6613768721212543694
+    second: absol_7
+  - first:
+      213: -9218807858861586194
+    second: absol_8
+  - first:
+      213: -6892250037757248265
+    second: absol_9
+  - first:
+      213: 8576196723188892731
+    second: absol_10
+  - first:
+      213: 1571117706508450959
+    second: absol_11
+  - first:
+      213: 6031447482817671470
+    second: absol_12
+  - first:
+      213: 7451788166680196820
+    second: absol_13
+  - first:
+      213: 8776413511282987280
+    second: absol_14
+  - first:
+      213: -5365434895694638356
+    second: absol_15
+  - first:
+      213: -1429278829965757976
+    second: absol_16
+  - first:
+      213: -4753878372145425115
+    second: absol_17
+  - first:
+      213: -2221912148514168831
+    second: absol_18
+  - first:
+      213: 4323227899292515217
+    second: absol_19
+  - first:
+      213: 8904519491166604696
+    second: absol_20
+  - first:
+      213: 3268315043009605924
+    second: absol_21
+  - first:
+      213: -8438539888782459629
+    second: absol_22
+  - first:
+      213: -7486854959146668863
+    second: absol_23
+  - first:
+      213: 44734341491701876
+    second: absol_24
+  - first:
+      213: 468885270905700789
+    second: absol_25
+  - first:
+      213: 3959213121579227130
+    second: absol_26
+  - first:
+      213: 7585524627890256114
+    second: absol_27
+  - first:
+      213: 1920393765264514509
+    second: absol_28
+  - first:
+      213: -5648986460970542475
+    second: absol_29
+  - first:
+      213: 1181507249488735025
+    second: absol_30
+  - first:
+      213: 8791119064636841611
+    second: absol_31
+  - first:
+      213: 3823215657218673774
+    second: absol_32
+  - first:
+      213: 3928104514808535204
+    second: absol_33
+  - first:
+      213: 7048076659142687811
+    second: absol_34
+  - first:
+      213: 7745321450367090789
+    second: absol_35
+  - first:
+      213: -5524947398333746830
+    second: absol_36
+  - first:
+      213: -8806442192807341789
+    second: absol_37
+  - first:
+      213: 4330560951758639829
+    second: absol_38
+  - first:
+      213: 3820624423028813378
+    second: absol_39
+  - first:
+      213: 561046440933639941
+    second: absol_40
+  - first:
+      213: -4505472884690844656
+    second: absol_41
+  - first:
+      213: 5488944929832755654
+    second: absol_42
+  - first:
+      213: 591990879471991162
+    second: absol_43
+  - first:
+      213: -4655436027331357121
+    second: absol_44
+  - first:
+      213: 4162421032903998909
+    second: absol_45
+  - first:
+      213: -5780075172288967564
+    second: absol_46
+  - first:
+      213: -7048962897352717066
+    second: absol_47
+  - first:
+      213: 5994674677129947239
+    second: absol_48
+  - first:
+      213: 4384890397459318793
+    second: absol_49
+  - first:
+      213: 2150487627840014278
+    second: absol_50
+  - first:
+      213: 7324004420900337047
+    second: absol_51
+  - first:
+      213: -4651109689868861453
+    second: absol_52
+  - first:
+      213: 4409409395977476242
+    second: absol_53
+  - first:
+      213: -3499026033750383212
+    second: absol_54
+  - first:
+      213: 2751924863574947022
+    second: absol_55
+  - first:
+      213: -6626082060741805362
+    second: absol_56
+  - first:
+      213: 6061513241426745311
+    second: absol_57
+  - first:
+      213: -8177719179483116043
+    second: absol_58
+  - first:
+      213: 1865606846903860188
+    second: absol_59
+  - first:
+      213: -1267455697307291775
+    second: absol_60
+  - first:
+      213: 5920135071670959084
+    second: absol_61
+  - first:
+      213: -2649105959611833398
+    second: absol_62
+  - first:
+      213: -2170986506354843792
+    second: absol_63
+  - first:
+      213: -6264992182172994552
+    second: absol_64
+  - first:
+      213: 2986297564068673841
+    second: absol_65
+  - first:
+      213: 7086175195726133738
+    second: absol_66
+  - first:
+      213: 574772037385206729
+    second: absol_67
+  - first:
+      213: 787538094654996143
+    second: absol_68
+  - first:
+      213: -2766336232651670625
+    second: absol_69
+  - first:
+      213: 6704895729619949189
+    second: absol_70
+  - first:
+      213: 8512301587955352292
+    second: absol_71
+  - first:
+      213: -1689667442563806298
+    second: absol_72
+  - first:
+      213: 2982433981289563529
+    second: absol_73
+  - first:
+      213: 228455992773560922
+    second: absol_74
+  - first:
+      213: 6939813107048218937
+    second: absol_75
+  - first:
+      213: 7087747909832515999
+    second: absol_76
+  - first:
+      213: 22114179073508825
+    second: absol_77
+  - first:
+      213: 5432088427502968991
+    second: absol_78
+  - first:
+      213: 8416889799558914148
+    second: absol_79
+  - first:
+      213: -1009040295431312204
+    second: absol_80
+  - first:
+      213: -6423606264817030230
+    second: absol_81
+  - first:
+      213: -5296289735062674441
+    second: absol_82
+  - first:
+      213: -3743853991029273804
+    second: absol_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: absol_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca1c15083852180800000000000000
+      internalID: -9140755281527853849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8615d7dd6bcb1b4a0800000000000000
+      internalID: -6579270087025536664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f19cfc5b6c32170800000000000000
+      internalID: 8152578234648174451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9442d453e7104d0800000000000000
+      internalID: -3170113895299528215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de82e17135d9c5890800000000000000
+      internalID: -7467921101891426067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c907f19d8b5441440800000000000000
+      internalID: 4905622554332328092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da79611ddb94d1d0800000000000000
+      internalID: -3326862850937750825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec296765c93d8cb50800000000000000
+      internalID: 6613768721212543694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 612
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8c9ff7817301080800000000000000
+      internalID: -9218807858861586194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc7e4c7b1fc950a0800000000000000
+      internalID: -6892250037757248265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340b892b75c40770800000000000000
+      internalID: 8576196723188892731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c33ccda3bbdc510800000000000000
+      internalID: 1571117706508450959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2175c6978104b350800000000000000
+      internalID: 6031447482817671470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6be683bd11a6760800000000000000
+      internalID: 7451788166680196820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01116fdc6951cc970800000000000000
+      internalID: 8776413511282987280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d2a0c3652a85b0800000000000000
+      internalID: -5365434895694638356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1b7ee0a7e2a2ce0800000000000000
+      internalID: -1429278829965757976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 544
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251cd2cec4d60eb0800000000000000
+      internalID: -4753878372145425115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10020b15cae2a21e0800000000000000
+      internalID: -2221912148514168831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b73647ed03ffb30800000000000000
+      internalID: 4323227899292515217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d078e8c45339b70800000000000000
+      internalID: 8904519491166604696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42137a027336b5d20800000000000000
+      internalID: 3268315043009605924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d38223ea844ea80800000000000000
+      internalID: -8438539888782459629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce03be419591890800000000000000
+      internalID: -7486854959146668863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478bfd585adee9000800000000000000
+      internalID: 44734341491701876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14fbc6ba0d18600800000000000000
+      internalID: 468885270905700789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 476
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af79bc57b53f1f630800000000000000
+      internalID: 3959213121579227130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f830609572354960800000000000000
+      internalID: 7585524627890256114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd577f64fb96aa10800000000000000
+      internalID: 1920393765264514509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a1cdc4eb4ca91b0800000000000000
+      internalID: -5648986460970542475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b2351659e856010800000000000000
+      internalID: 1181507249488735025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed7d14634500a70800000000000000
+      internalID: 8791119064636841611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0b3c426ace0530800000000000000
+      internalID: 3823215657218673774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a855c58e3e638630800000000000000
+      internalID: 3928104514808535204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cfbe1116ccfc160800000000000000
+      internalID: 7048076659142687811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 408
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560085892d8ec7b60800000000000000
+      internalID: 7745321450367090789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27139971d917353b0800000000000000
+      internalID: -5524947398333746830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d4b2fb7b39c580800000000000000
+      internalID: -8806442192807341789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d250c7cd3e391c30800000000000000
+      internalID: 4330560951758639829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e60d29ba5950530800000000000000
+      internalID: 3820624423028813378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c856f3cc39c700800000000000000
+      internalID: 561046440933639941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01409da48485971c0800000000000000
+      internalID: -4505472884690844656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ec5ef456ac2c40800000000000000
+      internalID: 5488944929832755654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f231819c273800800000000000000
+      internalID: 591990879471991162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 340
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36db544991946fb0800000000000000
+      internalID: -4655436027331357121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7bdf30e3e3c930800000000000000
+      internalID: 4162421032903998909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c49a4414c09cfa0800000000000000
+      internalID: -5780075172288967564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc0264879d0d2e90800000000000000
+      internalID: -7048962897352717066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7682c529bdc513350800000000000000
+      internalID: 5994674677129947239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908859795924adc30800000000000000
+      internalID: 4384890397459318793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c64f8a1118dd10800000000000000
+      internalID: 2150487627840014278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b721773714a560800000000000000
+      internalID: 7324004420900337047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff3df33160f37fb0800000000000000
+      internalID: -4651109689868861453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 272
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298d18ccb7e513d30800000000000000
+      internalID: 4409409395977476242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e6766c56f07fc0800000000000000
+      internalID: -3499026033750383212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec433f5451dc03620800000000000000
+      internalID: 2751924863574947022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca75e4e87d6b04a0800000000000000
+      internalID: -6626082060741805362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_57
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd751948d22de1450800000000000000
+      internalID: 6061513241426745311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8202dbb7e28e80800000000000000
+      internalID: -8177719179483116043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbbd38fa87f3e910800000000000000
+      internalID: 1865606846903860188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f247132c7196ee0800000000000000
+      internalID: -1267455697307291775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_61
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb77414b7b882250800000000000000
+      internalID: 5920135071670959084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 204
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac367f05a2c7c3bd0800000000000000
+      internalID: -2649105959611833398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9d8c564b1fd1e0800000000000000
+      internalID: -2170986506354843792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bafcbdc64e09a0800000000000000
+      internalID: -6264992182172994552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397debffc5717920800000000000000
+      internalID: 2986297564068673841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9b07ddbc6275260800000000000000
+      internalID: 7086175195726133738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3c2b6f100af700800000000000000
+      internalID: 574772037385206729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_68
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faebffa79b5edea00800000000000000
+      internalID: 787538094654996143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_69
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b31836adffb99d0800000000000000
+      internalID: -2766336232651670625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_70
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d70c54239c0d50800000000000000
+      internalID: 6704895729619949189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 136
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28213b135c12670800000000000000
+      internalID: 8512301587955352292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab0179c9681d88e0800000000000000
+      internalID: -1689667442563806298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98581d487ebb36920800000000000000
+      internalID: 2982433981289563529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac318d383ab2300800000000000000
+      internalID: 228455992773560922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931853d804b2f4060800000000000000
+      internalID: 6939813107048218937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_76
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a517eb2dbc5260800000000000000
+      internalID: 7087747909832515999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50d2c8ab09e4000800000000000000
+      internalID: 22114179073508825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9023d5f4a7a26b40800000000000000
+      internalID: 5432088427502968991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_79
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46061589daccec470800000000000000
+      internalID: 8416889799558914148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_80
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 68
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce2ca823b2ff1f0800000000000000
+      internalID: -1009040295431312204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab6b98c224cad6a0800000000000000
+      internalID: -6423606264817030230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3aa020c8ccf76b0800000000000000
+      internalID: -5296289735062674441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: absol_83
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b85c581a82b0cc0800000000000000
+      internalID: -3743853991029273804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
