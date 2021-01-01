@@ -33,8 +33,8 @@ public class ScrDetectaSortida : MonoBehaviour
     }
     void Update()
     {
-        recollides.text = ("RECOLLIDES: " + ScrControlGame.pokeballs);
-        puntuacio.text = ("PUNTUACIÓ: " + ScrControlGame.punts);
+        recollides.text = ("RECOLLIDES: " + ScrPokeball.pokeballs);
+        puntuacio.text = ("PUNTUACIÓ: " + ScrPokeball.punts);
         if (pantallaWin.activeSelf) SeguentNivell();
     }
     void SeguentNivell()

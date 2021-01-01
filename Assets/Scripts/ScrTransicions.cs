@@ -4,24 +4,12 @@ using UnityEngine.SceneManagement;
 using UnityEngine;
 
 
-public class ScrControlGame : MonoBehaviour
+public class ScrTransicions : MonoBehaviour
 {
-    // Start is called before the first frame update
     
     [SerializeField] Animator transicio;
     [SerializeField] float tempsTransicio = 1f;
-    [SerializeField] float tempsEspera = 38f; //temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
-
-    public static int punts = 0; //puntuació
-    public static int pokeballs = 0; //pokeballs recollides
-    public static int pokeballsTotal = 0; //pokeballs restant
-
-
-    void Start()
-    {
-        StartCoroutine(esperaIntro()); //inicio els temps d'espera per a canviar d'escena
-    }
-
+   
     // Update is called once per frame
     void Update()
     {
@@ -46,16 +34,5 @@ public class ScrControlGame : MonoBehaviour
         yield return new WaitForSeconds(tempsTransicio);
         SceneManager.LoadScene(levelIndex);
     }
-    IEnumerator esperaIntro()
-    {
-        Scene escena = SceneManager.GetActiveScene(); //vull que em detecti l'escena actual
-        string escenaActual = escena.name; //anomeno a l'escena actual com "escenaActual"
-        if (escenaActual == "Intro")
-        {
-            yield return new WaitForSeconds(tempsEspera);
-            SceneManager.LoadScene(1); //quan passin 38 segons vull que em carregui l'escena 1 
-        }
-        
-    }
-    
+
 }

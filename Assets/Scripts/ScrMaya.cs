@@ -51,10 +51,11 @@ public class ScrMaya : MonoBehaviour
         if (collision.CompareTag("Pokeball"))
         {
             scrP = collision.GetComponent<ScrPokeball>();
-            ScrControlGame.punts += scrP.valorPokeball;
+            ScrPokeball.punts += scrP.valorPokeball;
             Destroy(collision.gameObject);
-            ScrControlGame.pokeballs++;
-            ScrControlGame.pokeballsTotal--;
+            ScrPokeball.pokeballs++;
+            print("totales restan" + ScrPokeball.pokeballsTotal);
+            ScrPokeball.pokeballsTotal--;
         }
         if (collision.CompareTag("Tapa"))
         {

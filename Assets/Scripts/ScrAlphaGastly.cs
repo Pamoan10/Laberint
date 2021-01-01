@@ -13,7 +13,7 @@ public class ScrAlphaGastly : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (ScrControlGame.pokeballsTotal == 0)
+        if (ScrPokeball.pokeballsTotal == 0)
         {
             if (alphaGastly >= 0)
             {

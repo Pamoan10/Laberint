@@ -17,7 +17,7 @@ public class ScrUI : MonoBehaviour
     void Update()
     {
         temps.text = crono.ToString("0.0");
-        puntuacio.text = ScrControlGame.punts.ToString();
+        puntuacio.text = ScrPokeball.punts.ToString();
         crono += Time.deltaTime;
     }
   

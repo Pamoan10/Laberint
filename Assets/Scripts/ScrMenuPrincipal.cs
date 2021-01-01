@@ -11,7 +11,9 @@ public class ScrMenuPrincipal : MonoBehaviour
     [SerializeField] bool mostraPantalla = false; //aquesta variable controlara si es mostra la UI de controls o no
     void Start()
     {
-        
+        ScrPokeball.pokeballsTotal = 0;
+        ScrPokeball.pokeballs = 0;
+        ScrPokeball.punts = 0;
     }
 
     // Update is called once per frame
