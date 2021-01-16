@@ -5,7 +5,19 @@ using UnityEngine;
 
 public class ScrMenuPrincipal : MonoBehaviour
 {
-    //Script que pertany i controla el menú principal
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que pertany i controla el menú principal
+    /// AUTORA: Paula Moreta
+    /// DATA:   29/12/2020
+    /// VERSIÓ: 3.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Creo els inputs de les tecles i les funcions asociades
+    ///         2.0: segona versió.  Implemento que apareixi i desapareixi la pantalla de controls 
+    ///         3.0: tercera versió. Faig que els valors en aquesta pantalla siguin 0 per quan el player torni a jugar es resetegi
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] GameObject pantallaControls; //Declaro una variable pública que serà la UI del botó de controls del menú
     [SerializeField] bool mostraPantalla = false; //Aquesta variable controlara si es mostra la UI de controls o no

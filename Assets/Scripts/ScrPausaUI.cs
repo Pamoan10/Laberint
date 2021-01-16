@@ -5,7 +5,18 @@ using UnityEngine;
 
 public class ScrPausaUI : MonoBehaviour
 {
-    //Script que pertany al menú de pausa
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que pertany al menú de pausa
+    /// AUTORA: Paula Moreta
+    /// DATA:   02/01/2021
+    /// VERSIÓ: 2.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Activació del canvas amb la lletra P i pausa del joc
+    ///         2.0: segona versió.  Milloro la funcionalitat i estètica
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] GameObject pantallaPausa; //Declaro aquesta variable que em permetrà accedir desde unity al gameobject de la UI de pausa
     [SerializeField] bool pausat = false; //Em permetrà controlar la visibilitat del menú de pausa

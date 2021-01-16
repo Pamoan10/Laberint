@@ -4,6 +4,18 @@ using UnityEngine;
 
 public class ScrSoAmbient : MonoBehaviour
 {
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que pertany i controla el menú principal
+    /// AUTORA: Paula Moreta
+    /// DATA:   15/01/2021
+    /// VERSIÓ: 1.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Implementació del so
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
+    
     [SerializeField] AudioSource so; //per accedir al so ambient
     bool pausat = false;
 

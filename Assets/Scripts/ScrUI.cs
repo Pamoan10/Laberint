@@ -5,7 +5,17 @@ using UnityEngine.UI;
 
 public class ScrUI : MonoBehaviour
 {
-    //Aquest es el script de la UI on s'imprimeix el cronòmetre i els punts
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que controla els valors de la UI
+    /// AUTORA: Paula Moreta
+    /// DATA:   31/12/2020
+    /// VERSIÓ: 1.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Declarar el temps i la puntuació
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] Text puntuacio, temps;
     

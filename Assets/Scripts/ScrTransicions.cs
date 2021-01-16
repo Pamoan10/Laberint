@@ -6,7 +6,17 @@ using UnityEngine;
 
 public class ScrTransicions : MonoBehaviour
 {
-    //Entre cada nivell hi ha una fosa en negre, en aquest script és on la programo
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que controla les transicions entre escenes
+    /// AUTORA: Paula Moreta
+    /// DATA:   29/12/2020
+    /// VERSIÓ: 3.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Crear les animamcions i activar-les
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] Animator transicio;
     [SerializeField] float tempsTransicio = 1f;

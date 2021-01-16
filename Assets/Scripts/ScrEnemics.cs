@@ -4,9 +4,20 @@ using UnityEngine;
 
 public class ScrEnemics : MonoBehaviour
 {
-    /*Script que tenen els enemics per controlar el dany que fan al player. Hi ha enemics amb trigger i altres amb collider, per això ho faig
-    d'ambdues formes*/
-
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que tenen els enemics (amb trigger i collider) per controlar el dany que fan al player.
+    /// AUTORA: Paula Moreta
+    /// DATA:   01/01/2021
+    /// VERSIÓ: 3.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Detecta els que tenen trigger i resta el dany
+    ///         2.0: segona versió.  Detecta els que tenen collider i resta el dany
+    ///         3.0: tercera versió. Implementació del so
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
+    
     [SerializeField] int danyPokemon = 1; //Declaro la variable que controla el dany que faran els enemics
     AudioSource audioPokemon; //per accedir a l'audio
 

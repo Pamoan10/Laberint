@@ -5,7 +5,17 @@ using UnityEngine;
 
 public class ScrEsperaInicial : MonoBehaviour
 {
-    //Controla l'espera inicial quan surt la cinemàtica per canviar al següent nivell de forma automàtica
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que controla l'espera inicial quan surt la cinemàtica per canviar al següent nivell de forma automàtica
+    /// AUTORA: Paula Moreta
+    /// DATA:   30/12/2020
+    /// VERSIÓ: 1.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Creo el temps d'espera perquè carregui la segona escena
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] float tempsEspera = 38f; //Declaro el temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
     

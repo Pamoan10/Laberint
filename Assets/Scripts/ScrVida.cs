@@ -5,8 +5,19 @@ using UnityEngine.UI;
 
 public class ScrVida : MonoBehaviour
 {
-    //Script que s'encarrega de controlar el slider de la vida
-    
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que controla el slider de la vida
+    /// AUTORA: Paula Moreta
+    /// DATA:   03/03/2021
+    /// VERSIÓ: 2.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Crear el slider i que funcioni
+    ///         2.0: segona versió.  Implementar el degradat
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
+
     [SerializeField] Slider slider; //Declaro el slider que després vincularé a Unity
     [SerializeField] Gradient degradat; //Vull que el color de la vida canvii segons quanta té, per això crearé un degradat
     [SerializeField] Image barra;

@@ -6,7 +6,18 @@ using UnityEngine.SceneManagement;
 
 public class ScrDetectaSortida : MonoBehaviour
 {
-    //Pertany al trigger que s'encarrega de detectar la sortida i posar visible la pantalla Win per poder passar al següent nivell
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script utilitzat per controlar el trigger que fa visible la pantalla de victòria
+    /// AUTORA: Paula Moreta
+    /// DATA:   29/12/2020
+    /// VERSIÓ: 2.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. El trigger del personatge detecta el trigger de soritda
+    ///         2.0: segona versió.  La pantalla de victòria es fa visible
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] GameObject pantallaWin; //Declaro la pantalla de victòria i els elements que sortiran en ella
     [SerializeField] Text recollides, puntuacio;

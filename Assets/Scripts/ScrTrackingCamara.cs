@@ -4,7 +4,18 @@ using UnityEngine;
 
 public class ScrTrackingCamara : MonoBehaviour
 {
-    //Aquest script pertany a la càmera i em permet limitar i controlar el seu moviment
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script que pertany a la càmera i em permet limitar i controlar el seu moviment
+    /// AUTORA: Paula Moreta
+    /// DATA:   31/12/2020
+    /// VERSIÓ: 2.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Faig que la càmera segueixi al personatge mitjançant codi
+    ///         2.0: segona versió.  Limito el moviment de la càmera
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] Transform tracking; //Afegeixo aquesta variable que em servirà per decidir què vull que la càmera segueixi
     float tamany = 1.6f;

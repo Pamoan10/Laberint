@@ -4,7 +4,23 @@ using UnityEngine;
 
 public class ScrMaya : MonoBehaviour
 {
-    //Aquest es el script que porta el Player
+    /// <summary>
+    /// ------------------------------------------------------------------------------------------------------
+    /// DESCRIPCIÓ
+    ///         Script del personatge principal: Maya
+    /// AUTORA: Paula Moreta
+    /// DATA:   27/12/2020
+    /// VERSIÓ: 7.0
+    /// CONTROL DE VERSIONS
+    ///         1.0: primera versió. Defineixo el moviment del personatge
+    ///         2.0: segona versió.  Creo les animacions
+    ///         3.0: tercera versió. Creo les col·lisions amb les pokeballs
+    ///         4.0: quarta versió.  Implemento el dany que fan els enemics, la salut i la pantalla de looser
+    ///         5.0: cinquena versió. Arreglo bugs i errors de la barra de vida
+    ///         6.0: sisena versió.  Creo l'element "capa" que oculta el personatge durant el principi de la cinemàtica
+    ///         7.0: setena versió.  Implemento el so quan agafa una pokeball
+    /// -------------------------------------------------------------------------------------------------------
+    /// </summary>
 
     [SerializeField] float velocitat = 1f;
     [SerializeField] Animator animator; //Element necessari per crear les animacions
