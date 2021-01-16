@@ -5,15 +5,12 @@ using UnityEngine.UI;
 
 public class ScrUI : MonoBehaviour
 {
+    //Aquest es el script de la UI on s'imprimeix el cronòmetre i els punts
+
     [SerializeField] Text puntuacio, temps;
     
     float crono = 0;
-    void Start()
-    {
-       
-    }
-
-    // Update is called once per frame
+    
     void Update()
     {
         temps.text = crono.ToString("0.0");

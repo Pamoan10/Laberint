@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class ScrPokeball : MonoBehaviour
 {
-    // Start is called before the first frame update
-    public int valorPokeball = 2;
-    public static int punts = 0; //puntuació
-    public static int pokeballs = 0; //pokeballs recollides
-    public static int pokeballsTotal = 0; //pokeballs restant
+    //Aquest script pertany als pickups
+
+    public int valorPokeball = 2; //Declaro el valor del pickup
+    public static int punts = 0; //Puntuació
+    public static int pokeballs = 0; //Pickups recollits
+    public static int pokeballsTotal = 0; //Pickups restants
 
     void Awake()
     {
-        pokeballsTotal++;
+        pokeballsTotal++; //Compta tots els pickups del nivell
     }
     
 

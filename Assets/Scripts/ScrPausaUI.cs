@@ -5,17 +5,17 @@ using UnityEngine;
 
 public class ScrPausaUI : MonoBehaviour
 {
-    // Start is called before the first frame update
-    [SerializeField] GameObject pantallaPausa; //declaro aquesta variable que em permetrà accedir desde unity al gameobject de la UI de pausa
-    [SerializeField] bool pausat = false;
+    //Script que pertany al menú de pausa
+
+    [SerializeField] GameObject pantallaPausa; //Declaro aquesta variable que em permetrà accedir desde unity al gameobject de la UI de pausa
+    [SerializeField] bool pausat = false; //Em permetrà controlar la visibilitat del menú de pausa
     void Start()
     {
         Time.timeScale = 1;
     }
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.P))
+        if (Input.GetKeyDown(KeyCode.P)) //Amb la tecla P es pausa i es despausa el joc
         {
             if (pausat) Reprendre();
             else PausaJoc();
@@ -23,23 +23,23 @@ public class ScrPausaUI : MonoBehaviour
     }
     void PausaJoc()
     {
-        pantallaPausa.SetActive(true); //mostra la UI
+        pantallaPausa.SetActive(true); //Mostra la UI
         pausat = true;
-        Time.timeScale = 0; //pausa el joc
+        Time.timeScale = 0; //Pausa el joc
     }
     public void Reprendre()
     {
-        pantallaPausa.SetActive(false); //amaga la UI
+        pantallaPausa.SetActive(false); //Amaga la UI
         pausat = false;
-        Time.timeScale = 1; //repren el joc
+        Time.timeScale = 1; //Repren el joc
     }
     public void Menu()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 1; //Carrega el menú principal, és a dir l'escena 2
         SceneManager.LoadScene(2);
     }
     public void Sortir()
     {
-        Application.Quit();
+        Application.Quit(); //Surt del joc
     }
 }

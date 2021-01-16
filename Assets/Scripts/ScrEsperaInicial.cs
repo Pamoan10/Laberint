@@ -5,21 +5,23 @@ using UnityEngine;
 
 public class ScrEsperaInicial : MonoBehaviour
 {
-    [SerializeField] float tempsEspera = 38f; //temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
-    // Start is called before the first frame update
+    //Controla l'espera inicial quan surt la cinemàtica per canviar al següent nivell de forma automàtica
+
+    [SerializeField] float tempsEspera = 38f; //Declaro el temps d'espera per activar la escena num 1, són els segons que dura el video de la intro
+    
     void Start()
     {
-        StartCoroutine(esperaIntro()); //inicio els temps d'espera per a canviar d'escena
+        StartCoroutine(esperaIntro()); //Inicio el temps d'espera per a canviar d'escena
     }
 
     IEnumerator esperaIntro()
     {
-        Scene escena = SceneManager.GetActiveScene(); //vull que em detecti l'escena actual
-        string escenaActual = escena.name; //anomeno a l'escena actual com "escenaActual"
+        Scene escena = SceneManager.GetActiveScene(); //Vull que em detecti l'escena actual, la que està activa
+        string escenaActual = escena.name; //Anomeno a l'escena actual com "escenaActual"
         if (escenaActual == "Intro")
         {
             yield return new WaitForSeconds(tempsEspera);
-            SceneManager.LoadScene(1); //quan passin 38 segons vull que em carregui l'escena 1 
+            SceneManager.LoadScene(1); //Quan passin 38 segons, que és el temps d'espera, vull que em carregui l'escena 1 
         }
 
     }

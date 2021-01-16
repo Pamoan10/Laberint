@@ -6,20 +6,20 @@ using UnityEngine;
 
 public class ScrTransicions : MonoBehaviour
 {
-    
+    //Entre cada nivell hi ha una fosa en negre, en aquest script és on la programo
+
     [SerializeField] Animator transicio;
     [SerializeField] float tempsTransicio = 1f;
    
-    // Update is called once per frame
     void Update()
     {
         ControlEntradaUsuari();
     }
     void ControlEntradaUsuari()
     {
-        Scene escena = SceneManager.GetActiveScene(); //vull que em detecti l'escena actual
-        string escenaActual = escena.name; //anomeno a l'escena actual com "escenaActual"
-        if (escenaActual == "Intro" || escenaActual == "Intro 2") //si l'escena actual és la de Intro o Intro 2, vull poder canviar d'escena amb "Enter"
+        Scene escena = SceneManager.GetActiveScene(); //Vull que em detecti l'escena actual
+        string escenaActual = escena.name; //Anomeno a l'escena actual com "escenaActual"
+        if (escenaActual == "Intro" || escenaActual == "Intro 2") //Si l'escena actual és la de Intro o Intro 2, vull poder canviar d'escena amb "Enter"
         {
             if(Input.GetKeyDown(KeyCode.Return)) CarregarNivell();
         }

@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class ScrTrackingCamara : MonoBehaviour
 {
-    // Start is called before the first frame update
-    [SerializeField] Transform tracking; //afegeixo aquesta variable que em servirà per decidir què vull que la càmera segueixi
+    //Aquest script pertany a la càmera i em permet limitar i controlar el seu moviment
+
+    [SerializeField] Transform tracking; //Afegeixo aquesta variable que em servirà per decidir què vull que la càmera segueixi
     float tamany = 1.6f;
-    // Update is called once per frame
+   
     void Update()
     {
         transform.position = new Vector3(

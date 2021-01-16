@@ -4,17 +4,13 @@ using UnityEngine;
 
 public class ScrEscenaFinal : MonoBehaviour
 {
-    // Start is called before the first frame update
-    [SerializeField] GameObject sortir;
-    void Start()
-    {
-        
-    }
+    //Script de l'escena final
 
-    // Update is called once per frame
+    [SerializeField] GameObject sortir; //Declaro aquest gameobject d'on aprofitaré la programació del menú de pausa pels botons d'aquesta escena
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape)) sortir.GetComponent<ScrPausaUI>().Sortir();
+        //Accedeixo al script de pausa on tinc la programació dels botons per no haver-ho de programar de nou
+        if (Input.GetKeyDown(KeyCode.Escape)) sortir.GetComponent<ScrPausaUI>().Sortir();  
         if (Input.GetKeyDown(KeyCode.Return)) sortir.GetComponent<ScrPausaUI>().Menu(); 
     }
 }
